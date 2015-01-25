@@ -1,0 +1,14 @@
+base
+devtools
+shiny
+googleVis
+maps
+mapproj
+bitops
+RCurl
+plyr
+shinyapps
+slidify
+knitr
+reshape2
+ggplot2
